@@ -1,0 +1,13 @@
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\bin\Debug\CostomerManagement.exe.config
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\bin\Debug\CostomerManagement.exe
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\bin\Debug\CostomerManagement.pdb
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\obj\Debug\CostomerManagement.csprojResolveAssemblyReference.cache
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\obj\Debug\CostomerManagement.Properties.Resources.resources
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\obj\Debug\CostomerManagement.csproj.GenerateResource.Cache
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\obj\Debug\CostomerManagement.csproj.CoreCompileInputs.cache
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\obj\Debug\CostomerManagement.exe
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\obj\Debug\CostomerManagement.pdb
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\bin\Debug\MySql.Data.dll
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\bin\Debug\MySql.Data.xml
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\obj\Debug\CostomerManagement.CostomerForm.resources
+C:\Users\baeyonggeon\source\repos\CostomerManagement\CostomerManagement\obj\Debug\CostomerManagement.View.CostomerDialog.resources
